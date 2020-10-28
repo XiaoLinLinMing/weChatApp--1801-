@@ -1,7 +1,7 @@
 # 软件1801的小伙伴
 ## 作者
   林会祺，也可以叫我林布斯、掉头发的杰瑞，哈哈阿巴阿巴！
-  ![雷布斯](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603904917237&di=e22b8272d13e6cb49208f37a1a689c9d&imgtype=0&src=http%3A%2F%2Fpic.baiqi008.com%2Fuploads%2Fqqqkqmksky.jpeg)
+   ![牛批](https://pic1.zhimg.com/80/v2-b3d80f5f2bbd93bf20e0dee076901c6f_720w.jpg?source=1940ef5c)
 ## 项目名称
   【亮瞎狗眼V2.0】微信小程序必看爽文-附源码
    ![牛批](https://pic4.zhimg.com/50/v2-e8e14795cbdb002a023c316c6698092c_hd.webp?source=1940ef5c) 
